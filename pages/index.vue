@@ -123,8 +123,7 @@ export default {
   }+Enter).",
   "Errors": "Check the console for errors if your JSON fails to parse.",
   "Themes": "Toggle between dark/light theme by pressing ${this.modifier}+B",
-  "Privacy": "Your data will not be stored or shared with any third parties.",
-  "Source": "View the source code on GitHub at https://github.com/kritzware/json"
+  "Privacy": "Your data will not be stored or shared with any third parties."
 }`
     }
   },
